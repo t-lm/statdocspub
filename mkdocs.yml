@@ -1,6 +1,21 @@
-site_name: User guide
+site_name: Publisher guide
 nav:
     - Welcome: index.md
+    - Getting started:
+      - Configuring your account: gs/index.md
+      - Publishing series: gs/series.md
+      - Inviting collaborators: gs/members.md
+      - Adding charts: gs/charts.md
+      - Wrapping-up: gs/wrapup.md
+    - Working in Excel:
+      - Getting started: excel/index.md
+      - Simple publication: excel/put.md
+      - Batch publication: excel/batch.md
+    - Going further:
+      - Organising the collection: next/index.md
+      - Creating a private collection: next/private.md
+      - Building all charts: next/charts.md
+      - Answering questions: next/questions.md
 theme:
   name: material
   palette:
@@ -10,13 +25,17 @@ theme:
   logo: img/logo_statit_64.png
   favicon: img/favicon.ico
   features:
-    #- navigation.tabs
     - navigation.indexes
     - navigation.sections
     - navigation.instant
     - navigation.tracking
 extra:
-  generator: false #this should remove the Made with Material at the bottom - not working
-  homepage: https://gostatit.com
+  generator: false not working
+  homepage: https://www.gostatit.com
+  analytics:
+    provider: google
+    property: UA-163848470-1
 extra_css:
   - stylesheets/extra.css
+markdown_extensions:
+  - attr_list
