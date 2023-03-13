@@ -16,6 +16,9 @@ nav:
       - Creating a private collection: next/private.md
       - Building all charts: next/charts.md
       - Answering questions: next/questions.md
+    - Working with the API:
+      - Get started: api/index.md
+      - Reference: api/reference.md
 theme:
   name: material
   palette:
