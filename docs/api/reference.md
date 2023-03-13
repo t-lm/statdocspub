@@ -96,7 +96,7 @@ As an example, a/b/c is the parent ID of a/b/c/serie1 and a/b/c/serie2
 
 #### Parameters
 
-- **action**: putSerie
+- **action**: updateSerie
 - **input** - **Object**:
     - **id** - **String** - *required*. ID of the serie. Accepted characters: alphanumerical (A to z, 0 to 9) and ".", "-", "_" and "/"
     - **name** - **String** - *optional*. Name of the serie
