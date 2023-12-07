@@ -1,3 +1,11 @@
+2023-12-05:
+===========
+
+- at the moment only version for publisher supported
+
+2023-03-20:
+===========
+
 run local:
 - mkdocs serve
 
