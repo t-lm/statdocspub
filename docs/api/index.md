@@ -11,7 +11,7 @@ This page will help you get started publishing metrics using the Statit API.
 
 ## **Set-up and basic concepts**
 
-Please, refer to the [user guide](http://help_fr.gostatit.com) to learn about how to get started with the API. 
+Please, refer to the [user guide](http://help.gostatit.com) to learn about how to get started with the API. 
 
 
 ## **Publishing metrics**

@@ -2,7 +2,7 @@
 
 Hi, welcome on the **publisher guide**.
 
-This guide will help you publish your first series on Statit. If you are looking for the user guide to access series, it is [here](http://help_en.gostatit.com)
+This guide will help you publish your first series on Statit. If you are looking for the user guide to access series, it is [here](http://help.gostatit.com)
 
 The guide is organised in **four parts**:
 
